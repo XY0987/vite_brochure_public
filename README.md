@@ -153,7 +153,7 @@ AI 能随手给出能跑的 Vite 配置，却替代不了三件事：理解配�
 
 - **章节规模**（预估）：第一阶段已扩展为 7 个模块、约 32 节正文；第二阶段约 15 节、第三阶段约 7 节，合计约 54 节。
 - **配套代码仓库**：
-  - 使用篇：每个知识点最小可运行 demo（按章节目录组织）。仓库：<https://github.com/XY0987/vite_brochure_code_public_public>
+  - 使用篇：每个知识点最小可运行 demo（按章节目录组织）。仓库：<https://github.com/XY0987/vite_brochure_code_public>
   - 源码篇：fork 的可调试最新 Vite（8.x）源码分支 + VS Code 断点 / launch 配置，读者可一键复现书中调试路径。仓库：<https://github.com/XY0987/vite_ori_public>
 - **图示**：核心机制的流程图与调用链图（依赖预构建、请求处理、HMR、构建流程等）。
 - **正文形式**：Markdown 章节文稿，符合掘金小册的单节售卖颗粒度。

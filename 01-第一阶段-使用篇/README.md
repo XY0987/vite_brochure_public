@@ -9,7 +9,7 @@
 
 | 模块 | 解决的问题 | 建议读法 | 配套代码 |
 |---|---|---|---|
-| [01 核心使用](./01-核心使用/README.md) | 从定位、配置、命令、资源、预构建到 SSR/库/MPA、TS、性能与排障 | 必读基础；08/09 可作为排障手册反复查 | [01-核心使用/](https://github.com/XY0987/vite_brochure_code_public_public/tree/main/第一阶段-使用篇/01-核心使用/) |
+| [01 核心使用](./01-核心使用/README.md) | 从定位、配置、命令、资源、预构建到 SSR/库/MPA、TS、性能与排障 | 必读基础；08/09 可作为排障手册反复查 | [01-核心使用/](https://github.com/XY0987/vite_brochure_code_public/tree/main/第一阶段-使用篇/01-核心使用/) |
 | [02 框架集成与测试](./02-框架集成与测试/README.md) | React / Vue / Svelte 怎么接入，Vitest 如何复用 Vite 管线 | 用哪个框架就重点读对应节；Vitest 建议必读 | [02-框架集成与测试/](https://github.com/XY0987/vite_brochure_code_public/tree/main/第一阶段-使用篇/02-框架集成与测试/) |
 | [03 插件与生态](./03-插件与生态/README.md) | 插件怎么写、Rollup 钩子与 Vite 的关系、常用插件如何组合 | 想看懂配置里的 `plugins` 必读 | [03-插件与生态/](https://github.com/XY0987/vite_brochure_code_public/tree/main/第一阶段-使用篇/03-插件与生态/) |
 | [04 多环境与工程化场景](./04-多环境与工程化场景/README.md) | Environment API、monorepo、SSR 坑位、部署 CI 与缓存 | 团队项目、SSR、上线前重点读 | [04-多环境与工程化场景/](https://github.com/XY0987/vite_brochure_code_public/tree/main/第一阶段-使用篇/04-多环境与工程化场景/) |
